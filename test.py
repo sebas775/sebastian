@@ -1,4 +1,4 @@
 # Hello Word #
 
-var = 'Hello Word'
+var = 'Hola mundo'
 print(var)
